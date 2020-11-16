@@ -1,0 +1,16 @@
+{
+  "expo": {
+   "name": "OMED",
+   "icon": "F:/Projects/omed-expo/images/logoOmed.png",
+   "version": "1.0.1",
+   "slug": "online-medical-diagnosis",
+   "ios": {
+     "bundleIdentifier": "com.devgdg0.OMED",
+     "buildNumber": "1.0.1"
+   },
+   "android": {
+     "package": "com.devgdg0.OMED",
+     "versionCode": 2
+   }
+  }
+}
